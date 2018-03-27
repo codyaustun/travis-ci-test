@@ -1,4 +1,5 @@
 # DAWNBench Submission Instructions
+[![Build Status](https://travis-ci.org/codyaustun/travis-ci-test.svg?branch=master)](https://travis-ci.org/codyaustun/travis-ci-test)
 
 Thank you for the interest in DAWNBench!
 
